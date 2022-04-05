@@ -1,0 +1,18 @@
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.deps.json
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.runtimeconfig.json
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.runtimeconfig.dev.json
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.dll
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.csprojAssemblyReference.cache
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.AssemblyInfo.cs
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\testcentric.engine.metadata.dll
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\Utilities\Testing Data.json
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\bin\Debug\netcoreapp2.1\Project1.pdb
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.dll
+C:\Users\Lawrence\Desktop\上岸\项目实战\Story1\Project1\Project1\obj\Debug\netcoreapp2.1\Project1.pdb
